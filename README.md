@@ -1,0 +1,2 @@
+# FOTA
+Simple FOTA project 
